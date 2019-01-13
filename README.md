@@ -12,7 +12,8 @@
 [![chat][chat]][chat-url]
 [![size][size]][size-url]
 
-# webpack-serve
+# webpack-serve-node6
+The latest version of koa-webpack need node8+，webpack-serve relies on it and isn't locked version.
 
 For a novel, fast(er), and superior development server - try [webpack-plugin-serve](https://www.npmjs.com/package/webpack-plugin-serve)
 
